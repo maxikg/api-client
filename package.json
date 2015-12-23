@@ -1,0 +1,14 @@
+{
+  "name": "api-client",
+  "version": "0.1.0",
+  "description": "A simple, ticked api client using AMQP.",
+  "main": "index.js",
+  "author": "maxikg <max.walsch@gmail.com>",
+  "license": "GPLv3",
+  "dependencies": {
+    "amqplib": "^0.4.0",
+    "log4js": "^0.6.29",
+    "q": "^1.4.1",
+    "request": "^2.67.0"
+  }
+}
