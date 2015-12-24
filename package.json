@@ -1,6 +1,6 @@
 {
   "name": "api-client",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple, ticked api client using AMQP.",
   "main": "index.js",
   "author": "maxikg <max.walsch@gmail.com>",

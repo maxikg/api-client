@@ -39,7 +39,3 @@ Since the software should be already configured during the installation process 
 After the software is started something like `1/1 APIs started successfully` should be displayed.
 
 For production use you should take a look at [PM2](https://github.com/Unitech/pm2).
-
-## ToDo
-
- * Support Mojang Profiles API (for querying player names by their UUIDs)
