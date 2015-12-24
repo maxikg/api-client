@@ -6,20 +6,7 @@ Designed to work especially with APIs which have time interval quotas, like Hypi
 
 ## Example
 
-The following json can be inserted into queue for Hypixel API query:
-
-```json
-{
-    "method": "friends",
-    "parameters": {
-        "uuid": "952d258fc0fa49df844e745131367a98"
-    },
-    "respond": "responses"
-}
-```
-
-Getting the friends for the player with the uuid `952d258f-c0fa-49df-844e-745131367a98` and pushes the result to the
-queue `responses`.
+Examples can be found here: [Example Requests](https://github.com/maxikg/api-client/wiki/Example-Requests).
 
 ## Installation
 
