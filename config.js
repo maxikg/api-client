@@ -4,7 +4,8 @@ module.exports = {
     },
     log: {
         appenders: [
-            { type: "console" }
+            { type: "console" },
+            { "type": "file", "filename": "logs/log.log" }
         ]
     },
     apis: [
