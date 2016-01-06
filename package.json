@@ -5,6 +5,9 @@
   "main": "index.js",
   "author": "maxikg <max.walsch@gmail.com>",
   "license": "GPLv3",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "amqplib": "^0.4.0",
     "log4js": "^0.6.29",
