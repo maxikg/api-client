@@ -2,7 +2,7 @@
 
 This small daemon can query APIs based on AMQP messages and push the result into a queue.
 
-Designed to work especially with APIs which have time interval quotas, like Hypixel API (60 requests/min).
+Designed to work especially with APIs which have time interval quotas, like Hypixel API (120 requests/min).
 
 ## Example
 
