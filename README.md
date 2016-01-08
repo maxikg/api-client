@@ -49,5 +49,5 @@ In this case some environment variables are configured as well as the restart po
 
 ## License
 
-This software is licensed under Apache License v2. A copy of this license is shipped within this repository in the
+This library is distributed under the GNU General Public License version 3. A copy is shipped within the
 [LICENSE.txt](/LICENSE.txt) file.
