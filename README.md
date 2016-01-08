@@ -46,3 +46,8 @@ docker run -e "AMQP_URL=<amqp-url>" \
 ```
 
 In this case some environment variables are configured as well as the restart policy. 
+
+## License
+
+This software is licensed under Apache License v2. A copy of this license is shipped within this repository in the
+[LICENSE.txt](/LICENSE.txt) file.
